@@ -1,12 +1,20 @@
 {
   "name": "local-todo-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small example on how to use Node and the file system to create a todo list for your computer!",
   "main": "index.js",
   "scripts": {
     "task-list": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuryaKrishnaMoorthy/local-todo-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuryaKrishnaMoorthy/local-todo-list/issues"
+  },
+  "homepage": "https://github.com/SuryaKrishnaMoorthy/local-todo-list#readme"
 }

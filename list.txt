@@ -1,1 +1,7 @@
+
 Complete my Local Todo List
+
+cook
+laundry
+shopping
+plan
